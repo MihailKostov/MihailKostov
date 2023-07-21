@@ -1,5 +1,5 @@
 # 💫 Hi! How are you?
-I am a Frontend Developer with a passion for developing the world of technology.<br>Currently, I am imporving my skills in React, TypeScript, JavaScript, Redux and Web.<br>Ready to explore new frameworks such as Angular, Vue, and React Native.<br>
+I am a Frontend Developer with a passion for developing the world of technology.<br>Currently, I am imporving my skills in React, TypeScript, JavaScript, Node.JS Redux and Web.<br>Ready to explore new frameworks such as Angular, Vue, and React Native.<br>
 
 
 ## 🌐 Socials:
