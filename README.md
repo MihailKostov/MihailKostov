@@ -2,6 +2,9 @@
 I am a FullStack Developer with a passion for developing the world of technology.<br>Currently, I am imporving my skills in React, TypeScript, JavaScript, Node.JS Redux and Web.<br>Ready to explore new frameworks such as Angular, Vue, and React Native.<br>
 
 
+<b>Currently working on [@MykhailoPV](https://github.com/MykhailoPV) account<b/>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mykhailo-kostov-48b2ba256/)
 
